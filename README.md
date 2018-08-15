@@ -27,8 +27,7 @@ $ make
 $ python setup.py build
 $ python setup.py install
 $ cd ../../
-$ git clone https://github.com/yunjey/pytorch-tutorial.git
-$ cd pytorch-tutorial/tutorials/03-advanced/image_captioning/
+$ git clone https://github.com/2018-summer-DL-training-program/Lab-2-Image-Captioning
 ```
 
 #### 2. Download the dataset
